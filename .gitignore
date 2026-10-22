@@ -4,3 +4,4 @@
 # ログと一時ファイル
 *.log
 tmp/
+config.txt
